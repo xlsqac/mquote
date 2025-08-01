@@ -1,6 +1,4 @@
-package main
-
-func main() {}
+package mquote
 
 func GetHello() string {
 	return "mquote hello"
